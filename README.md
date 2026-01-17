@@ -6,6 +6,8 @@ English | [简体中文](README_zh.md)
 
 This project contains injection attack datasets for three text classification tasks, designed to evaluate the robustness of language models when faced with malicious criterion injections. Each task includes original data, injected data, and variants of different attack types.
 
+**🤗 Dataset**: [https://huggingface.co/datasets/Yuanhou/criteria_attack](https://huggingface.co/datasets/Yuanhou/criteria_attack)
+
 ## Directory Structure
 
 ```
