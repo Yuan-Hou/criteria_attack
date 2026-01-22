@@ -240,3 +240,14 @@ chmod +x run_all_tasks.sh
 - IMDB 电影评论: [aclImdb Dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
 - Enron 垃圾邮件: [Enron Spam Dataset](https://www.kaggle.com/datasets/wanderfj/enron-spam)
 - 有害评论: [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
+
+还可以引用我们的论文：
+
+```bibtex
+@article{liu2026reasoning,
+  title={Reasoning Hijacking: Subverting LLM Classification via Decision-Criteria Injection},
+  author={Liu, Yuansen and Tang, Yixuan and Tun, Anthony Kum Hoe},
+  journal={arXiv preprint arXiv:2601.10294},
+  year={2026}
+}
+```
