@@ -240,3 +240,14 @@ If you use this dataset for research, please cite the data sources:
 - IMDB Movie Reviews: [aclImdb Dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
 - Enron Spam: [Enron Spam Dataset](https://www.kaggle.com/datasets/wanderfj/enron-spam)
 - Toxic Comments: [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
+
+And our paper:
+
+```bibtex
+@article{liu2026reasoning,
+  title={Reasoning Hijacking: Subverting LLM Classification via Decision-Criteria Injection},
+  author={Liu, Yuansen and Tang, Yixuan and Tun, Anthony Kum Hoe},
+  journal={arXiv preprint arXiv:2601.10294},
+  year={2026}
+}
+```
